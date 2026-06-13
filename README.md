@@ -11,7 +11,7 @@ Currently building [VibeSwap](https://github.com/WGlynn/VibeSwap), an omnichain 
 - **Smart Contract Systems** — Solidity 0.8.20, Foundry, OpenZeppelin v5.0.1, UUPS upgradeable proxies
 - **MEV-Resistant Mechanisms** — commit-reveal batch auctions, Fisher-Yates deterministic ordering
 - **Game-Theoretic Rewards** — Shapley value distribution, cooperative game theory in production Solidity
-- **Cross-Chain Infrastructure** — LayerZero V2 OApp for unified liquidity across EVM chains
+- **Cross-Chain Infrastructure** — canonical burn-and-mint cross-chain messaging for unified liquidity across chains
 - **Security Architecture** — flash loan protection, circuit breakers, TWAP validation, rate limiting
 - **Full-Stack** — React 18, Vite, ethers.js v6, Python (Kalman filter oracles)
 
